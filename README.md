@@ -88,6 +88,7 @@
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [TeamSmart AI](https://www.teamsmart.ai/) - The Chrome extension to boost productivity with AI
 
+- [TaskOnward](https://taskonward.5188688.xyz/) - A browser extension that saves project state (decisions, progress, next steps) from a long ChatGPT conversation and resumes it in a new chat. Free public beta.
 ### APIs & Clients
 
 - [revChatGPT](https://github.com/acheong08/ChatGPT) - Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
